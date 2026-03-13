@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "ZeichnenMitJavaVSC2025_07.jar"
+    ]
+}
